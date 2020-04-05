@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://annietugb:Annchs20@anniescluster-ovpoe.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://annietugb:Annchs20@anniescluster-ovpoe.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysectertoken"
 }
